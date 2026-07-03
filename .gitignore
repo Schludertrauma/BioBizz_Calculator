@@ -1,0 +1,4 @@
+# CMake builds
+build/
+out/
+cmake-build-*/
