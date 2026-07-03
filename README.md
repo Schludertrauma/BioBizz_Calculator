@@ -12,26 +12,6 @@ the current week of your plant
 
 The calculator will show you exactly how much of each nutrient you need for that feeding.
 
-Example:
-
-How much water in liters? 
-
-Water: 1
-
-In which week is your plant? 
-
-Week: 1
-
-You need for Week 1 and 1 Liter of water:
-
-Root Juice: 4 ml
-
-Bio Heaven: 2 ml 
-
-Acti Vera: 2 ml 
-
-CalMag: 0.3 ml 
-
 Features:
 
 Simple command-line application 
