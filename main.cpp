@@ -105,7 +105,7 @@ int main()
     double cal_mag_week6_8 = 0.5*water_input;
 
     //calmag week 9-10
-    double cal_mag_week9_10 = 0.8*water_input;
+    double cal_mag_week9_12 = 0.8*water_input;
 
     //use user_input for water and week to switch for right case
     switch (week_input)
@@ -194,7 +194,7 @@ int main()
         std::cout << "Top Max: " << top_max_week9 << "ml\n";
         std::cout << "Bio Heaven: " << bio_heaven_week9 << "ml\n";
         std::cout << "Acti Vera: " << acti_vera_week9 << "ml\n";
-        std::cout << "CalMag: " << cal_mag_week9_10 << "ml\n"; 
+        std::cout << "CalMag: " << cal_mag_week9_12 << "ml\n"; 
         break;
 
     case 10:
@@ -204,15 +204,19 @@ int main()
         std::cout << "Top Max: " << top_max_week10 << "ml\n";
         std::cout << "Bio Heaven: " << bio_heaven_week10 << "ml\n";
         std::cout << "Acti Vera: " << acti_vera_week10 << "ml\n";
-        std::cout << "CalMag: " << cal_mag_week9_10 << "ml\n"; 
+        std::cout << "CalMag: " << cal_mag_week9_12 << "ml\n"; 
         break;
 
     case 11:
         std::cout << "You should be flashing in Week 11!\n";
+        std::cout << "Optional with: \n";
+        std::cout << "CalMag: " << cal_mag_week9_12 << "ml\n";
         break;
 
     case 12:
         std::cout << "You should be harvesting in Week 12!\n";
+        std::cout << "Optional flashing with: \n";
+        std::cout << "CalMag: " << cal_mag_week9_12 << "ml\n";
         break;
 
     default:
