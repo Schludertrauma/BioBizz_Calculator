@@ -22,18 +22,20 @@ int main()
 
     // get user_input for water and week
     std::cout << "\n";
-    std::cout << "Hello, from BioBizz_Calculator!\n"
-              << "\n";
-    std::cout << "Info: This Calculator follow the nutrient schedule from BioBizz(2024) for All Mix Soil.\n";
-    std::cout << "      Start using fertilizers when your plant is 10-15cm or has 2-4 leaves.\n";
-    std::cout << "      A pH-value between 6.2 and 6.5 is ideal, controlled pH-value between 6.2 and 6.3.\n";
-    std::cout << "      Water 2-3 times a Week, no need to water till run-off.\n";
-    std::cout << "      You can mix several fertilizers in same feeding water.\n";
-    std::cout << "      Use CalMag every watering when you growing with Reverse osmosis or very soft Water, \n";
-    std::cout << "      or once a Week in case of CalMag deficiency signs.\n";
-    std::cout << "      It is always better to be modest than to add more.\n";
-    std::cout << "      A plant will not die from too little nutrients, but it wont survive an overdose!\n";
-    
+    std::cout << " _____________________________________________________________________________________________\n";
+    std::cout << "|BioBizz_Calculator!                                                                          |\n";
+    std::cout << "|                                                                                             |\n";
+    std::cout << "|Info: This Calculator follow the nutrient schedule from BioBizz(2024) for All Mix Soil.      |\n";
+    std::cout << "|      Start using fertilizers when your plant is 10-15cm or has 2-4 leaves.                  |\n";
+    std::cout << "|      A pH-value between 6.2 and 6.5 is ideal, controlled pH-value between 6.2 and 6.3.      |\n";
+    std::cout << "|      Water 2-3 times a Week, no need to water till run-off.                                 |\n";
+    std::cout << "|      You can mix several fertilizers in same feeding water.                                 |\n";
+    std::cout << "|      Use CalMag every watering when you growing with Reverse osmosis or very soft Water,    |\n";
+    std::cout << "|      or once a Week in case of CalMag deficiency signs.                                     |\n";
+    std::cout << "|      It is always better to be modest than to add more.                                     |\n";
+    std::cout << "|      A plant will not die from too little nutrients, but it wont survive an overdose!       |\n";
+    std::cout << "|_____________________________________________________________________________________________|\n";
+
     while (run == true)
     {
         std::cout << "\n" << "How much Water in Liter?\n";
