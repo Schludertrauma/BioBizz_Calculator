@@ -1,6 +1,6 @@
 namespace W8
 {
-    class week
+    class week8
     {
         public:
             void eight(double water_input);

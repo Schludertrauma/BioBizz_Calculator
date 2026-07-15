@@ -1,6 +1,6 @@
 namespace W11
 {
-    class week
+    class week11
     {
         public:
             void eleven(double water_input);

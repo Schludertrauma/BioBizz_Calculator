@@ -17,7 +17,7 @@ add_executable(BioBizz_Calculator
     src/week_12.cpp
 )
 
-target_include_directories(BioBizz_Calculator PRIVATE include)
+target_include_directories(BioBizz_Calculator PRIVATE inc)
 
 include(CTest)
 enable_testing(FALSE)

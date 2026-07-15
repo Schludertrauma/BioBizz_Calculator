@@ -2,7 +2,7 @@
 
 #include "week_2.h"
 
-void W2::week::two(double water_input)
+void W2::week2::two(double water_input)
 {
     // week2
     double root_juice_week2 = 4 * water_input;

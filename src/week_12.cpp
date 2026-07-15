@@ -2,7 +2,7 @@
 
 #include "week_12.h"
 
-void W12::week::twelve(double water_input)
+void W12::week12::twelve(double water_input)
 {
     // calmag week 9-12
     double cal_mag_week9_12 = 0.8 * water_input;

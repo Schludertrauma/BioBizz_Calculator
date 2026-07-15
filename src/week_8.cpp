@@ -2,7 +2,7 @@
 
 #include "week_8.h"
 
-void W8::week::eight(double water_input)
+void W8::week8::eight(double water_input)
 {
     // week8
     double bio_grow_week8 = 1 * water_input;
