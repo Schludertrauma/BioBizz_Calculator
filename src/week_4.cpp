@@ -30,23 +30,20 @@ void W4::week4::four(double water_input)
 
     std::cout << "You need for " << water_input << " Liter Water in Week 4: \n"
               << "\n";
-    std::cout << "CalMag: " << cal_mag_week1_5 << "ml\n"
-              << "\n";
-    std::cout << "100%\n";
+    std::cout << "CalMag: " << cal_mag_week1_5 << "ml\n";
+    std::cout << "|100%|\n";
     std::cout << "Bio Grow: " << bio_grow_week4 << "ml\n";
     std::cout << "Bio Bloom: " << bio_bloom_week4 << "ml\n";
     std::cout << "Top Max: " << top_max_week4 << "ml\n";
     std::cout << "Bio Heaven: " << bio_heaven_week4 << "ml\n";
-    std::cout << "Acti Vera: " << acti_vera_week4 << "ml\n"
-              << "\n";
-    std::cout << "75%\n";
+    std::cout << "Acti Vera: " << acti_vera_week4 << "ml\n";
+    std::cout << "|75%|\n";
     std::cout << "Bio Grow: " << bio_grow_75_week4 << "ml\n";
     std::cout << "Bio Bloom: " << bio_bloom_75_week4 << "ml\n";
     std::cout << "Top Max: " << top_max_75_week4 << "ml\n";
     std::cout << "Bio Heaven: " << bio_heaven_75_week4 << "ml\n";
-    std::cout << "Acti Vera: " << acti_vera_75_week4 << "ml\n"
-              << "\n";
-    std::cout << "50%\n";
+    std::cout << "Acti Vera: " << acti_vera_75_week4 << "ml\n";
+    std::cout << "|50%|\n";
     std::cout << "Bio Grow: " << bio_grow_50_week4 << "ml\n";
     std::cout << "Bio Bloom: " << bio_bloom_50_week4 << "ml\n";
     std::cout << "Top Max: " << top_max_50_week4 << "ml\n";

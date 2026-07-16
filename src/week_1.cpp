@@ -22,19 +22,16 @@ void W1::week1::one(double water_input)
 
     std::cout << "You need for " << water_input << " Liter Water in Week 1: \n"
               << "\n";
-    std::cout << "CalMag: " << cal_mag_week1_5 << "ml\n"
-              << "\n";
-    std::cout << "100%\n";
+    std::cout << "CalMag: " << cal_mag_week1_5 << "ml\n";
+    std::cout << "|100%|\n";
     std::cout << "Root Juice: " << root_juice_week1 << "ml\n";
     std::cout << "Bio Heaven: " << bio_heaven_week1 << "ml\n";
-    std::cout << "Acti Vera: " << acti_vera_week1 << "ml\n"
-              << "\n";
-    std::cout << "75%\n";
+    std::cout << "Acti Vera: " << acti_vera_week1 << "ml\n";
+    std::cout << "|75%|\n";
     std::cout << "Root Juice: " << root_juice_75_week1 << "ml\n";
     std::cout << "Bio Heaven: " << bio_heaven_75_week1 << "ml\n";
-    std::cout << "Acti Vera: " << acti_vera_75_week1 << "ml\n"
-              << "\n";
-    std::cout << "50%\n";
+    std::cout << "Acti Vera: " << acti_vera_75_week1 << "ml\n";
+    std::cout << "|50%|\n";
     std::cout << "Root Juice: " << root_juice_50_week1 << "ml\n";
     std::cout << "Bio Heaven: " << bio_heaven_50_week1 << "ml\n";
     std::cout << "Acti Vera: " << acti_vera_50_week1 << "ml\n";
